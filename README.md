@@ -2,7 +2,7 @@
 
 An Age Calculator web application created using HTML, CSS, and JavaScript. This simple tool allows users to input their birthdate and calculates their age in years, months, and days based on the current date.
 
-![Age Calculator Screenshot](screenshot.png)
+![Age Calculator Screenshot](scrnshot.jpg)
 
 ## Features
 
@@ -10,10 +10,6 @@ An Age Calculator web application created using HTML, CSS, and JavaScript. This 
 - Calculate your age in years, months, and days.
 - Provides accurate results, considering leap years and varying month lengths.
 - Responsive design for a great user experience on different devices.
-
-## Demo
-
-Check out a live demo of the Age Calculator: [Demo Link](https://your-demo-link-here.com)
 
 ## Getting Started
 
